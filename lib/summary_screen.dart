@@ -66,7 +66,7 @@ class _SummaryScreenState extends State<SummaryScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('MortgageV0'),
+        title: const Text('Mortgage App'),
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Theme.of(context).colorScheme.onPrimary,
       ),

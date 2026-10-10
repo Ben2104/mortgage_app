@@ -66,7 +66,7 @@ class _ModifyScreenState extends State<ModifyScreen> {
     final scheme = Theme.of(context).colorScheme;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('MortgageV0'),
+        title: const Text('Mortgage App'),
         backgroundColor: scheme.primary,
         foregroundColor: scheme.onPrimary,
       ),
